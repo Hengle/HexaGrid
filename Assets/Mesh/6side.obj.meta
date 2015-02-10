@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 537b3408dfe9c2444af8f5b7abebfc7e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCylinder2_pCylinder5 pCylinder6 pCylinder7 pCylinder8 pCylinder9 pCylinder10
+      pCylinder11 pCylinder12 pCylinder13 pCylinder14 pCylinder15 pCylinder16 pCylinder17
+      pCylinder18 pCylinder19 pCylinder20 pCylinder21 pCylinder22 pCylinder23 pCylinder24
+      pCylinder25 pCylinder26 pCylinder27 pCylinder28 pCylinder29 pCylinder30 pCylinder31
+      pCylinder32 pCylinder33 pCylinder34 pCylinder35 pCylinder37 pCylinder38 pCylinder39
+      pCylinder40 pCylinder41 pCylinder42 pCylinder43 pCylinder44 pCylinder45 pCylinder46
+      pCylinder47 pCylinder48 pCylinder49 pCylinder50 pCylinder51 pCylinder52 pCylinder53
+      pCylinder54 pCylinder55 pCylinder56 pCylinder57 pCylinder58 pCylinder59 pCylinder60
+      pCylinder61 pCylinder62 pCylinder63 pCylinder64 pCylinder65 pCylinder66 pCylinder67
+      pCylinder68 pCylinder69 pCylinder70 pCylinder71 pCylinder72 pCylinder73 pCylinder74
+      bevel pCylinder76 pCylinder77 pCylinder78 pCylinder79 pCylinder80 pCylinder81
+      pCylinder83 pCylinder84 pCylinder85 pCylinder86 pCylinder87 pCylinder88 pCylinder89
+      pCylinder90 pCylinder91 pCyl
+    100004: Hexagon
+    400000: //RootNode
+    400002: pCylinder2_pCylinder5 pCylinder6 pCylinder7 pCylinder8 pCylinder9 pCylinder10
+      pCylinder11 pCylinder12 pCylinder13 pCylinder14 pCylinder15 pCylinder16 pCylinder17
+      pCylinder18 pCylinder19 pCylinder20 pCylinder21 pCylinder22 pCylinder23 pCylinder24
+      pCylinder25 pCylinder26 pCylinder27 pCylinder28 pCylinder29 pCylinder30 pCylinder31
+      pCylinder32 pCylinder33 pCylinder34 pCylinder35 pCylinder37 pCylinder38 pCylinder39
+      pCylinder40 pCylinder41 pCylinder42 pCylinder43 pCylinder44 pCylinder45 pCylinder46
+      pCylinder47 pCylinder48 pCylinder49 pCylinder50 pCylinder51 pCylinder52 pCylinder53
+      pCylinder54 pCylinder55 pCylinder56 pCylinder57 pCylinder58 pCylinder59 pCylinder60
+      pCylinder61 pCylinder62 pCylinder63 pCylinder64 pCylinder65 pCylinder66 pCylinder67
+      pCylinder68 pCylinder69 pCylinder70 pCylinder71 pCylinder72 pCylinder73 pCylinder74
+      bevel pCylinder76 pCylinder77 pCylinder78 pCylinder79 pCylinder80 pCylinder81
+      pCylinder83 pCylinder84 pCylinder85 pCylinder86 pCylinder87 pCylinder88 pCylinder89
+      pCylinder90 pCylinder91 pCyl
+    400004: Hexagon
+    2300000: pCylinder2_pCylinder5 pCylinder6 pCylinder7 pCylinder8 pCylinder9 pCylinder10
+      pCylinder11 pCylinder12 pCylinder13 pCylinder14 pCylinder15 pCylinder16 pCylinder17
+      pCylinder18 pCylinder19 pCylinder20 pCylinder21 pCylinder22 pCylinder23 pCylinder24
+      pCylinder25 pCylinder26 pCylinder27 pCylinder28 pCylinder29 pCylinder30 pCylinder31
+      pCylinder32 pCylinder33 pCylinder34 pCylinder35 pCylinder37 pCylinder38 pCylinder39
+      pCylinder40 pCylinder41 pCylinder42 pCylinder43 pCylinder44 pCylinder45 pCylinder46
+      pCylinder47 pCylinder48 pCylinder49 pCylinder50 pCylinder51 pCylinder52 pCylinder53
+      pCylinder54 pCylinder55 pCylinder56 pCylinder57 pCylinder58 pCylinder59 pCylinder60
+      pCylinder61 pCylinder62 pCylinder63 pCylinder64 pCylinder65 pCylinder66 pCylinder67
+      pCylinder68 pCylinder69 pCylinder70 pCylinder71 pCylinder72 pCylinder73 pCylinder74
+      bevel pCylinder76 pCylinder77 pCylinder78 pCylinder79 pCylinder80 pCylinder81
+      pCylinder83 pCylinder84 pCylinder85 pCylinder86 pCylinder87 pCylinder88 pCylinder89
+      pCylinder90 pCylinder91 pCyl
+    2300002: Hexagon
+    3300000: pCylinder2_pCylinder5 pCylinder6 pCylinder7 pCylinder8 pCylinder9 pCylinder10
+      pCylinder11 pCylinder12 pCylinder13 pCylinder14 pCylinder15 pCylinder16 pCylinder17
+      pCylinder18 pCylinder19 pCylinder20 pCylinder21 pCylinder22 pCylinder23 pCylinder24
+      pCylinder25 pCylinder26 pCylinder27 pCylinder28 pCylinder29 pCylinder30 pCylinder31
+      pCylinder32 pCylinder33 pCylinder34 pCylinder35 pCylinder37 pCylinder38 pCylinder39
+      pCylinder40 pCylinder41 pCylinder42 pCylinder43 pCylinder44 pCylinder45 pCylinder46
+      pCylinder47 pCylinder48 pCylinder49 pCylinder50 pCylinder51 pCylinder52 pCylinder53
+      pCylinder54 pCylinder55 pCylinder56 pCylinder57 pCylinder58 pCylinder59 pCylinder60
+      pCylinder61 pCylinder62 pCylinder63 pCylinder64 pCylinder65 pCylinder66 pCylinder67
+      pCylinder68 pCylinder69 pCylinder70 pCylinder71 pCylinder72 pCylinder73 pCylinder74
+      bevel pCylinder76 pCylinder77 pCylinder78 pCylinder79 pCylinder80 pCylinder81
+      pCylinder83 pCylinder84 pCylinder85 pCylinder86 pCylinder87 pCylinder88 pCylinder89
+      pCylinder90 pCylinder91 pCyl
+    3300002: Hexagon
+    4300000: pCylinder2_pCylinder5 pCylinder6 pCylinder7 pCylinder8 pCylinder9 pCylinder10
+      pCylinder11 pCylinder12 pCylinder13 pCylinder14 pCylinder15 pCylinder16 pCylinder17
+      pCylinder18 pCylinder19 pCylinder20 pCylinder21 pCylinder22 pCylinder23 pCylinder24
+      pCylinder25 pCylinder26 pCylinder27 pCylinder28 pCylinder29 pCylinder30 pCylinder31
+      pCylinder32 pCylinder33 pCylinder34 pCylinder35 pCylinder37 pCylinder38 pCylinder39
+      pCylinder40 pCylinder41 pCylinder42 pCylinder43 pCylinder44 pCylinder45 pCylinder46
+      pCylinder47 pCylinder48 pCylinder49 pCylinder50 pCylinder51 pCylinder52 pCylinder53
+      pCylinder54 pCylinder55 pCylinder56 pCylinder57 pCylinder58 pCylinder59 pCylinder60
+      pCylinder61 pCylinder62 pCylinder63 pCylinder64 pCylinder65 pCylinder66 pCylinder67
+      pCylinder68 pCylinder69 pCylinder70 pCylinder71 pCylinder72 pCylinder73 pCylinder74
+      bevel pCylinder76 pCylinder77 pCylinder78 pCylinder79 pCylinder80 pCylinder81
+      pCylinder83 pCylinder84 pCylinder85 pCylinder86 pCylinder87 pCylinder88 pCylinder89
+      pCylinder90 pCylinder91 pCyl
+    4300002: Hexagon
+    6400000: pCylinder2_pCylinder5 pCylinder6 pCylinder7 pCylinder8 pCylinder9 pCylinder10
+      pCylinder11 pCylinder12 pCylinder13 pCylinder14 pCylinder15 pCylinder16 pCylinder17
+      pCylinder18 pCylinder19 pCylinder20 pCylinder21 pCylinder22 pCylinder23 pCylinder24
+      pCylinder25 pCylinder26 pCylinder27 pCylinder28 pCylinder29 pCylinder30 pCylinder31
+      pCylinder32 pCylinder33 pCylinder34 pCylinder35 pCylinder37 pCylinder38 pCylinder39
+      pCylinder40 pCylinder41 pCylinder42 pCylinder43 pCylinder44 pCylinder45 pCylinder46
+      pCylinder47 pCylinder48 pCylinder49 pCylinder50 pCylinder51 pCylinder52 pCylinder53
+      pCylinder54 pCylinder55 pCylinder56 pCylinder57 pCylinder58 pCylinder59 pCylinder60
+      pCylinder61 pCylinder62 pCylinder63 pCylinder64 pCylinder65 pCylinder66 pCylinder67
+      pCylinder68 pCylinder69 pCylinder70 pCylinder71 pCylinder72 pCylinder73 pCylinder74
+      bevel pCylinder76 pCylinder77 pCylinder78 pCylinder79 pCylinder80 pCylinder81
+      pCylinder83 pCylinder84 pCylinder85 pCylinder86 pCylinder87 pCylinder88 pCylinder89
+      pCylinder90 pCylinder91 pCyl
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 50
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
